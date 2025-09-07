@@ -10,4 +10,4 @@ Aplicação simples e prática, desenvolvida em JavaScript, para sortear um nome
 Você pode acessar ao projeto clicando [aqui](https://github.com/An3xos/chalenge-amigo-secreto-alura)
 
 ## Autores
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Anaxímenes Nascimento</sub>](https://github.com/an3xos)
+[<img src="https://avatars.githubusercontent.com/u/223775790?v=4" width=115><br><sub>Anaxímenes Nascimento</sub>](https://github.com/an3xos)
